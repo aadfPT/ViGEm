@@ -9,6 +9,7 @@ namespace Nefarius.ViGEm.Targets.Xbox360
         Down = 0x0002,
         Left = 0x0004,
         Right = 0x0008,
+        Logo = 0x0400,
         Start = 0x0010,
         Back = 0x0020,
         LeftThumb = 0x0040,
